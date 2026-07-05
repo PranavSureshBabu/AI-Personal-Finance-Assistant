@@ -1,11 +1,11 @@
 # AI-Personal-Finance-Assistant
 
-> **Project Overview**
+. **Project Overview**
 
-> **Features(planned)**
+. **Features(planned)**
 
-> **Tech stack**
+. **Tech stack**
 
-> **Folder Structure**
+. **Folder Structure**
 
-> **Roadmap**
+. **Roadmap**
